@@ -2,6 +2,5 @@
 """Sqaure module"""
 
 class Sqaure:
-    
     """Defines sqaure"""
     pass
